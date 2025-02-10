@@ -1,2 +1,2 @@
 # nodejsAssign
-I this repo we will going to share my all learning in backends from scratch.
+I this repo I will going to share my all learning in backends from scratch.
